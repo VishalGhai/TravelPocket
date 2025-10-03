@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/TravelPocket/static/css/main.d7591ec8.css",
-    "main.js": "/TravelPocket/static/js/main.ea9906e6.js",
+    "main.js": "/TravelPocket/static/js/main.30739fd7.js",
     "index.html": "/TravelPocket/index.html"
   },
   "entrypoints": [
     "static/css/main.d7591ec8.css",
-    "static/js/main.ea9906e6.js"
+    "static/js/main.30739fd7.js"
   ]
 }
