@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/TravelPocket/static/css/main.4b91e4f2.css",
-    "main.js": "/TravelPocket/static/js/main.b209db82.js",
-    "index.html": "/TravelPocket/index.html",
-    "main.4b91e4f2.css.map": "/TravelPocket/static/css/main.4b91e4f2.css.map",
-    "main.b209db82.js.map": "/TravelPocket/static/js/main.b209db82.js.map"
+    "main.css": "/TravelPocket/static/css/main.d7591ec8.css",
+    "main.js": "/TravelPocket/static/js/main.30739fd7.js",
+    "index.html": "/TravelPocket/index.html"
   },
   "entrypoints": [
-    "static/css/main.4b91e4f2.css",
-    "static/js/main.b209db82.js"
+    "static/css/main.d7591ec8.css",
+    "static/js/main.30739fd7.js"
   ]
 }
